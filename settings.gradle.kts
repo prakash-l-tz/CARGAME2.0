@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "BUSLOCATION"
+rootProject.name = "CARGAME2.0"
 include(":app")
  

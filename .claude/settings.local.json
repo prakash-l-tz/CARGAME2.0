@@ -1,7 +1,7 @@
 {
   "permissions": {
     "allow": [
-      "Bash(find /c/Users/Dell/AndroidStudioProjects/BUSLOCATION/app/src -name *.kt)",
+      "Bash(find /c/Users/Dell/AndroidStudioProjects/CARGAME2.0/app/src -name *.kt)",
       "Bash(./gradlew assembleDebug)"
     ]
   }
