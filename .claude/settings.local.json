@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /c/Users/Dell/AndroidStudioProjects/BUSLOCATION/app/src -name *.kt)",
+      "Bash(./gradlew assembleDebug)"
+    ]
+  }
+}
